@@ -2,8 +2,7 @@ import React from 'react';
 
 
 
-const Header = ({
-}) => {
+const Header = ({}) => {
   return (
     <nav>
       <div className="nav-wrapper amber darken-2">
